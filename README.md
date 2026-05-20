@@ -1,5 +1,11 @@
 # Hertz Hunter Hardware
 
+> [!IMPORTANT]
+>
+> This repository is licensed under the [MIT License](LICENSE). This license applies to this repository as an aggregation list and doesn't necessarily apply to the designs within it.
+>
+> Individual hardware designs, source files, documentation, and related assets contributed to this repository remain the property of their respective authors and may be licensed under separate terms chosen by those authors.
+
 Repository of different hardware designs for the [Hertz Hunter](https://github.com/odddollar/Hertz-Hunter) RF spectrum analyser.
 
 ## Designs
@@ -69,6 +75,10 @@ Adding your own design to this repository is encouraged! **Your design does not 
 5. Fill out the below template and add it **the repo's main `README.md`**
 6. Submit a pull request to have your changes merged into the main repo
 
+> [!IMPORTANT]
+>
+> Designers are free to license their designs how they wish by including a `LICENSE` file in their design's directory. This repository does not assume that the repository's license applies to the designs contained within.
+
 ### Template
 
 Please use the following template to add your design's entry to this `README.md`. No fields are mandatory, however please include at least a designer name/username and, if possible, an example image. Add any additional fields you would like to include, keeping the formatting consistent.
@@ -83,6 +93,7 @@ An example is provided above with the entry for the DIY design.
 - **Designer**: 
 - **Designer contact**: 
 - **Open source**: 
+- **License**: 
 - **Purchase/external link**: 
 - **Price**: 
 - **Power source**: 
